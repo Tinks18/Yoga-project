@@ -19,6 +19,7 @@ header {
     color:#fff;
     height:30 px;
     width: 100%;
+
     background-color:  rgba(60, 60, 60, 0.6);
     font-size: 30px;
     text-transform: uppercase;
@@ -27,7 +28,15 @@ header {
 header > h1 {
     text-align: center;
 }
-
+/*  
+#logo {
+    text-align: center;
+    height: 10%;
+    width:10%;
+    margin-top: 0;
+    padding: 0;
+}
+*/
 /* navigation */
 
 header > nav {
@@ -44,3 +53,8 @@ nav > a{
     
 }
 
+#image {
+    height: 10px;
+    width: 100%;
+    border: none;
+}
