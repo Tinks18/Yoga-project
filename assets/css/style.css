@@ -13,13 +13,13 @@ body{
     background: #fff;
 }
 
+
 /* header */
 
 header {
     color:#fff;
     height:30 px;
     width: 100%;
-
     background-color:  rgba(60, 60, 60, 0.6);
     font-size: 30px;
     text-transform: uppercase;
@@ -52,10 +52,39 @@ nav > a{
     margin-inline: 5px;
     
 }
-/*  
+
 #image {
+ height: 800px;
+ width: 150%;
+ background: url('..//images/Mindfulness-Yoga.jpg');
+ background-repeat: no-repeat;
+}
+
+/* gallery photos */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+    
+}
+
+#photos > img {
+    width: 100%;
+}
+
+footer {
+    height: 200px;
+    background-color:  rgba(60, 60, 60, 0.6);
+    margin-top: 700px;
+    text-align: center;
+}
+/*  
+#image-logo {
     height: 10px;
     width: 200%;
     border: none;
 }
  */
+
