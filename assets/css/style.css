@@ -13,4 +13,23 @@ body{
     background: #fff;
 }
 
+/* header */
+
+header {
+    color:#fff;
+    height:30 px;
+    width: 100%;
+    background-color:  rgba(60, 60, 60, 0.6);
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+header > h1 {
+    text-align: center;
+}
+
+header > nav {
+    text-align: right;
+}
+
 
