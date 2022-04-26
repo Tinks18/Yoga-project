@@ -28,8 +28,19 @@ header > h1 {
     text-align: center;
 }
 
+/* navigation */
+
 header > nav {
     text-align: right;
 }
 
+nav > a{
+    color: #fff;
+    font-size: 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-flexbox;
+    margin-inline: 5px;
+    
+}
 
