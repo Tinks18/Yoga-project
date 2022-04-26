@@ -65,14 +65,15 @@ nav > a{
 #photos {
     clear: both;
     line-height: 0;
-    column-count: 4;
     column-gap: 0;
-    
+    column-count: 4;
+  
 }
 
 #photos > img {
-    width: 100%;
+    width:100%;
 }
+
 
 footer {
     height: 200px;
