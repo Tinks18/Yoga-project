@@ -17,12 +17,11 @@ body{
 /* header */
 
 header {
-    color:#fff;
+    /* color:#fff; */
     height:30 px;
     width: 100%;
-    background-color:  rgba(60, 60, 60, 0.6);
-    font-size: 30px;
-    
+    /* background-color:  rgba(60, 60, 60, 0.6); */
+    font-size: 20px;
     text-transform: uppercase;
 }
 
@@ -46,8 +45,8 @@ header > nav {
 }
 
 nav > a{
-    color: #fff;
-    font-size: 25px;
+    /* color: #fff; */
+    font-size: 20px;
     text-decoration: none;
     text-transform: uppercase;
     display: inline-flexbox;
@@ -81,7 +80,7 @@ nav > a{
 
 footer {
     height: 200px;
-    background-color:  rgba(60, 60, 60, 0.6);
+    /* background-color:  rgba(60, 60, 60, 0.6); */
     margin-top: 700px;
     text-align: center;
 }
@@ -149,4 +148,3 @@ footer {
     border: none;
 }
  */
-
