@@ -95,17 +95,17 @@ footer {
     background: url("../images/Mindfulness-Yoga.jpg");
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height: 600px;
 }
 
 .signup-form {
-    margin: 150px 10% 0 0;
+    margin: 100px 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
     left: 10%;
-    padding: 30px;
+    padding: 25px;
 }
 
 .signup-form > h2 {
