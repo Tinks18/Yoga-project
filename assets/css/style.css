@@ -1,5 +1,5 @@
  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap'); */
-/* @import url('https://fonts.googleapis.com/css?family=Josefin-Slab|Architects-Daughter" rel="stylesheet'); */
+
 *{
     margin: 0;
     padding: 0;
@@ -17,10 +17,9 @@ body{
 /* header */
 
 header {
-    /* color:#fff; */
+    
     height:30 px;
     width: 100%;
-     /* background-color:  rgba(60, 60, 60, 0.6); */ 
     font-size: 20px;
     text-transform: uppercase;
 }
@@ -29,15 +28,7 @@ header > h1 {
     text-align: center;
     font-weight: 200;
 }
-/*  
-#logo {
-    text-align: center;
-    height: 10%;
-    width:10%;
-    margin-top: 0;
-    padding: 0;
-}
-*/
+
 /* navigation */
 
 header > nav {
@@ -45,7 +36,7 @@ header > nav {
 }
 
 nav > a{
-    /* color: #fff; */
+   
     font-size: 20px;
     text-decoration: none;
     text-transform: uppercase;
@@ -76,25 +67,25 @@ nav > a{
     width:100%;
 }
 
+
+
 /* footer  */
 
-
 footer {
-    height: 200px;
-    /* background-color:  rgba(60, 60, 60, 0.6); */
-    
+    height: 200px;  
 }
-.margin {
-    margin-top: 700px;
+
+   .margin {
+     margin-top: 700px;
     }
 
    .links {
     text-align: center;
    }
+
    .links > li  {
     display: inline;
       }
-
 
    .links  i {
         font-size: 150%;
@@ -161,10 +152,3 @@ footer {
         background-color: #fafafa;
         color: #f16c6b;
     }
-/*  
-#image-logo {
-    height: 10px;
-    width: 200%;
-    border: none;
-}
- */
