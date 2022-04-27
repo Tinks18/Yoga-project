@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
-
+ @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css?family=Josefin-Slab|Architects-Daughter" rel="stylesheet'); */
 *{
     margin: 0;
     padding: 0;
@@ -20,7 +20,7 @@ header {
     /* color:#fff; */
     height:30 px;
     width: 100%;
-    /* background-color:  rgba(60, 60, 60, 0.6); */
+     /* background-color:  rgba(60, 60, 60, 0.6); */ 
     font-size: 20px;
     text-transform: uppercase;
 }
