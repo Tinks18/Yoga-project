@@ -83,8 +83,22 @@ footer {
     height: 200px;
     /* background-color:  rgba(60, 60, 60, 0.6); */
     margin-top: 700px;
+}
+
+.links {
     text-align: center;
 }
+.links > li  {
+    display: inline;
+  }
+
+
+   .links  i {
+        font-size: 150%;
+         margin: 1%; 
+        padding: 5%;
+        color:  #403f3f;
+    }
 
 
 
