@@ -107,7 +107,7 @@ footer {
 }
 
 .signup-form {
-    margin: 100px 10% 0 0;
+    margin: 100px 20% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
@@ -157,8 +157,8 @@ footer {
  
     /* Address */
     #contact {
-        margin-top: 210px;
-        margin-left: 30%;
+        margin-top: 180px;
+        margin-left: 35%;
     border: 1px solid #ecbbbb;
      border-radius: 1px;
     
