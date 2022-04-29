@@ -53,6 +53,11 @@ a:hover {
     color:#fff;
 }
 
+.active {
+    background-color:#403f3f ;
+    color:#fff;
+
+}
 #image {
  height: 800px;
  width: 100%;
