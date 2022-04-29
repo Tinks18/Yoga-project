@@ -1,4 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap'); */
 
 *{
     margin: 0;
@@ -84,7 +84,7 @@ footer {
    }
 
    .links > li  {
-    display: inline-flexbox;
+    display: inline;
       }
 
    .links  i {
@@ -161,6 +161,5 @@ footer {
         margin-left: 35%;
     border: 1px solid #ecbbbb;
      border-radius: 1px;
-     display: inline-flexbox;
     
     }
