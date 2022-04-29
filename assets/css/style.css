@@ -114,12 +114,14 @@ footer {
     position: absolute;
     left: 10%;
     padding: 25px;
+    border: 1px solid #ecbbbb;
+     border-radius: 2px;
 }
 
 .signup-form > h2 {
     color:  #fafafa;
     margin-bottom: 20px;
-}
+    }
 
  .text-input {
      background: transparent;
@@ -151,4 +153,13 @@ footer {
     .join-button:hover{
         background-color: #fafafa;
         color: #f16c6b;
+    }
+ 
+    /* Address */
+    #contact {
+        margin-top: 210px;
+        margin-left: 30%;
+    border: 1px solid #ecbbbb;
+     border-radius: 1px;
+    
     }
