@@ -120,7 +120,7 @@ footer {
 }
 
 .signup-form {
-    margin: 100px 20% 0 0;
+    margin: 80px 20% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
@@ -129,8 +129,6 @@ footer {
     padding: 25px;
     border: 1px solid #ecbbbb;
      border-radius: 2px;
-     
-     
 }
 
 .signup-form > h2 {
@@ -174,17 +172,43 @@ footer {
     #contact {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    max-width: 600px;
+    width: 96.4%;
+    height: 140px;
     position: absolute;
-    /* left: 10%; */
-    padding: 25px;
-    /* border: 1px solid #ecbbbb; */
-     /* border-radius: 2px; */
-        margin-top: 250px;
-        margin-left: 35%;
-    /* border: 1px solid #ecbbbb; */
-     /* border-radius: 1px; */
+    padding: 20px;
+    margin-top: 520px;
     
     }
-
+    h2{
+        margin-left: 10%;
+    }
+    p{
+        margin-left: 10%;
+        word-spacing: 4px;
+    }
     
+        /* #contact-left {
+            
+            margin-left: 10%;
+            clear: both;
+            margin-right: 30px;
+        }
+        #contact-right {
+             
+            clear: both;
+            /* margin-right: 30px; */
+            
+        } */
+
+    /* Media queries  */
+    @media screen and (max-width: 1200px) {
+       #contact { 
+        width: 100%;
+            
+        /* margin: 0 auto; */
+        /* padding:0; */
+        
+        /* float:left; */
+        clear: both;
+       }
+    }
