@@ -169,6 +169,8 @@ footer {
     }
  
     /* Address */
+
+
     #contact {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
@@ -177,28 +179,16 @@ footer {
     position: absolute;
     padding: 20px;
     margin-top: 520px;
-    
-    }
-    h2{
+        }
+
+    h2 {
         margin-left: 10%;
     }
-    p{
+    p {
         margin-left: 10%;
         word-spacing: 4px;
     }
     
-        /* #contact-left {
-            
-            margin-left: 10%;
-            clear: both;
-            margin-right: 30px;
-        }
-        #contact-right {
-             
-            clear: both;
-            /* margin-right: 30px; */
-            
-        } */
 
     /* Media queries  */
     @media screen and (max-width: 1200px) {
