@@ -14,6 +14,8 @@ body{
 }
 
 
+
+
 /* header */
 
 header {
@@ -28,6 +30,8 @@ header > h1 {
     text-align: center;
     font-weight: 200;
 }
+
+
 
 /* navigation */
 
@@ -64,6 +68,8 @@ a:hover {
  background: url('..//images/Mindfulness-Yoga.jpg');
  background-repeat: no-repeat;
 }
+
+
 
 /* gallery photos */
 
@@ -107,6 +113,7 @@ footer {
         /* color: #ea1b90; */
     }
 }
+
 
 
 /* Form */
@@ -168,10 +175,12 @@ footer {
         color: #f16c6b;
     }
  
+
+
     /* Address */
 
 
-    #contact {
+    #contact-us {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     width: 96.4%;
@@ -189,6 +198,8 @@ footer {
         word-spacing: 4px;
     }
     
+
+
 
     /* Media queries  */
     @media screen and (max-width: 1200px) {
