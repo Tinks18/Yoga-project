@@ -183,7 +183,7 @@ footer {
     #contact-us {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    width: 96.4%;
+    width: 100%;
     height: 140px;
     position: absolute;
     padding: 20px;
@@ -203,13 +203,19 @@ footer {
 
     /* Media queries  */
     @media screen and (max-width: 1200px) {
-       #contact { 
-        width: 100%;
-            
-        /* margin: 0 auto; */
-        /* padding:0; */
-        
-        /* float:left; */
-        clear: both;
-       }
+        #contact-us {        
+               padding: 0; 
+               height: auto;
+         }
+         .signup-form {
+             margin: 80px 10% 0 0;
+         }
+         body{
+             margin: 0 auto;
+         }
+         nav {
+             display: flex;
+             font-size: small;
+             text-align: center;
+         }
     }
