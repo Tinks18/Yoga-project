@@ -26,11 +26,12 @@ header {
     text-transform: uppercase;
 }
 
-header > h1 {
+header > h1{
     text-align: center;
-    font-weight: 200;
+    font-weight: 300;
+    
 }
-
+ 
 
 
 /* navigation */
@@ -47,7 +48,6 @@ nav > a{
     display: inline-flexbox;
     margin-inline: 5px;
     margin-right: 30px;  
-    /* color:#e */
     color:  #403f3f;
     
 }
@@ -63,15 +63,23 @@ nav > li:hover {
 
 }
 #image {
- height: 800px;
+  clear: left; 
+ height: 900px; 
  width: 100%;
- background: url('..//images/Mindfulness-Yoga.jpg');
+ background: url('../images/get-motivated-minutes-morning-yoga.jpg');
+ background-size: cover;
  background-repeat: no-repeat;
+ background-position: center;
 }
 
 
 
 /* gallery photos */
+
+#gallery {
+    margin-top: 900px;
+}
+
 
 #photos {
     clear: both;
@@ -94,7 +102,7 @@ footer {
 }
 
    .margin {
-     margin-top: 700px;
+     margin-top: 800px;
     }
 
    .links {
@@ -118,9 +126,9 @@ footer {
 
 /* Form */
 
-.form-section {
+#form-section {
     clear: left;
-    background: url("../images/Mindfulness-Yoga.jpg");
+    background: url('..//images/get-motivated-minutes-morning-yoga.jpg');
     background-size: cover;
     background-position: center;
     height: 600px;
@@ -183,11 +191,12 @@ footer {
     #contact-us {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    width: 96.4%;
-    height: 140px;
+    max-width: 400PX;
+    height: 250px;
     position: absolute;
     padding: 20px;
     margin-top: 520px;
+    left: 10%;
         }
 
     h2 {
