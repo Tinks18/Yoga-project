@@ -72,12 +72,22 @@ nav > li:hover {
  background-position: center;
 }
 
+#bg-image-contact {
+    clear: left; 
+   height: 900px; 
+   width: 100%;
+   background: url('../images/449626.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+  }
 
 
 /* gallery photos */
 
 #gallery {
     margin-top: 900px;
+    word-spacing: 4px;
 }
 
 
@@ -92,8 +102,9 @@ nav > li:hover {
 #photos > img {
     width:100%;
 }
-
-
+#map{
+    margin-top: 900px;
+}
 
 /* footer  */
 
@@ -192,11 +203,13 @@ footer {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400PX;
-    height: 250px;
+    height: 270px;
     position: absolute;
     padding: 20px;
     margin-top: 520px;
     left: 10%;
+    border: 1px solid #ecbbbb;
+     border-radius: 2px;
         }
 
     h2 {
