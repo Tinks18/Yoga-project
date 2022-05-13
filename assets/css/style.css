@@ -151,13 +151,13 @@ footer {
 }
 
 .signup-form {
-    margin: 80px 20% 0 0;
+    margin: 110px 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
     left: 10%;
-    padding: 25px;
+    padding: 30px;
     border: 1px solid #ecbbbb;
      border-radius: 2px;
 }
