@@ -40,7 +40,7 @@ header > h1{
 
 
 /* navigation */
-
+/* 
 header > nav {
     text-align: right;
 }
@@ -55,18 +55,18 @@ nav > a{
     margin-right: 30px;  
     color:  #403f3f;
     
-}
+} */
 
-nav > li:hover {
+/* nav > li:hover {
     background-color:#403f3f ;
     color:#fff;
-}
+} */
 
-.active {
+/* .active {
     background-color:#403f3f ;
     color:#fff;
 
-}
+} */
 #image {
   clear: left; 
  height: 900px; 
