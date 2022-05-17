@@ -157,11 +157,11 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 ## Credits 
 
 References as to whereabouts of my content, media and extra help :
--Code snippets were taken from [w3c bootstrap tutorials](https://www.w3schools.com/bootstrap/default.asp).
--Code snippets for the form and background styling on the contacts page and home page were taken from the "Love Running project" of Code institute.
-however, it is important to be very specific about these sources to avoid plagiarism. 
--Code for adding images to my gallery from the Love Running project of Code Institute.
--Code snippets from my mentor Guido Cecilio for images in the gallery 
+- Code snippets were taken from [w3c bootstrap tutorials](https://www.w3schools.com/bootstrap/default.asp).
+- Code snippets for the form and background styling on the contacts page and home page were taken from the "Love Running project" of Code institute.
+  (however, it is important to be very specific about these sources to avoid plagiarism. 
+- Code for adding images to my gallery from the Love Running project of Code Institute.
+- Code snippets from my mentor Guido Cecilio for images in the gallery 
 
 You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
