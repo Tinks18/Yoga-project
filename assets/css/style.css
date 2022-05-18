@@ -110,6 +110,8 @@ nav > a{
 #map{
     margin-top: 900px;
 }
+/* carousel */
+
 
 /* footer  */
 
@@ -230,14 +232,29 @@ nav > a{
 
 
     /* Media queries  */
-    @media screen and (max-width: 1200px) {
-       #contact { 
-        width: 100%;
-            
-        /* margin: 0 auto; */
-        /* padding:0; */
-        
-        /* float:left; */
-        clear: both;
-       }
+
+/* for larger to medium screen from 1200px wide an down */
+
+@meda screen and (max-width: 1200px) {
+   
+
+
+
+}
+/* for media screen sizes from 950 px wid and down*/
+@media screen and (max-width: 950px) {    
+
+    #photos {
+        column-count: 3;
     }
+}
+/* media query for 800px and down */
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 2;
+    
+}
+
+ 
+   
+       
