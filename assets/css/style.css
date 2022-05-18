@@ -202,9 +202,11 @@ nav > a{
         color: #f16c6b;
     }
  
+  .about-us {
+    style="background-color: azure;"
+  }
 
-
-    /* Address */
+    /* Address
 
 
     #contact-us {
@@ -226,7 +228,7 @@ nav > a{
     p {
         margin-left: 10%;
         word-spacing: 4px;
-    }
+    } */
     
 
 
@@ -235,7 +237,7 @@ nav > a{
 
 /* for larger to medium screen from 1200px wide an down */
 
-@meda screen and (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
    
 
 
