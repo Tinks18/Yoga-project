@@ -71,20 +71,22 @@ nav > a{
   clear: left; 
  height: 900px; 
  width: 100%;
- background: url('../images/get-motivated-minutes-morning-yoga.jpg');
+ background: url('https://res.cloudinary.com/sconnections/image/upload/v1652443129/sconnections/get-motivated-minutes-morning-yoga_widzxe.jpg');
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center;
+ position: relative;
 }
 
 #bg-image-contact {
     clear: left; 
    height: 900px; 
    width: 100%;
-   background: url('../images/449626.jpg');
+   background: url('https://res.cloudinary.com/sconnections/image/upload/v1652443105/sconnections/449626_rb15ih.jpg');
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
+   
   }
 
 
