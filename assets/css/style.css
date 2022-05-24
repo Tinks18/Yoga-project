@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap'); 
 
 *{
     margin: 0;
@@ -18,7 +18,7 @@ body{
     color:  #403f3f;
 }
 
-
+/* Background image for Home page */
 #image {
   clear: left; 
  height: 900px; 
@@ -145,4 +145,17 @@ body{
         column-count: 2;
     
 }
-
+.signup-form{
+    max-width: 50%;
+}
+}
+/* media query for 400px and down */
+@media screen and (max-width: 500px) {
+    #photos {
+        column-count: 2;
+    
+}
+.signup-form{
+    max-width: 80%;
+}
+}
