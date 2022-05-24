@@ -19,9 +19,11 @@ body {
     */ background: #fff;
     color: #403f3f;
 }
-
+.jumbotron{
+    margin-bottom: 0;
+}
 .navbar {
-    
+    margin-top: 0;
     margin-bottom:  0;
 
 }
@@ -73,7 +75,7 @@ body {
 }
 
 #map {
-    margin-top: 900px;
+    margin-top: 1200px;
 }
 
 
