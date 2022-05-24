@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
 *{
     margin: 0;
@@ -12,61 +12,13 @@
 
 body{
     box-sizing: border-box;
-    font-family: Lato, sans-serif;
-    font-weight: 300;
+    /* font-family: Lato, sans-serif; */
+    /* font-weight: 300; */
     background: #fff;
     color:  #403f3f;
 }
 
 
-
-
-/* header */
-/* 
-header {
-    
-    height:30 px;
-    width: 100%;
-    font-size: 20px;
-    text-transform: uppercase;
-}
-
-header > h1{
-    text-align: center;
-    font-weight: 300;
-    
-} */
- 
-
-
-/* navigation */
-/* 
-header > nav {
-    text-align: right;
-}
-
-nav > a{
-   
-    font-size: 20px;
-    text-decoration: none;
-    text-transform: uppercase;
-    display: inline-flexbox;
-    margin-inline: 5px;
-    margin-right: 30px;  
-    color:  #403f3f;
-    
-} */
-
-/* nav > li:hover {
-    background-color:#403f3f ;
-    color:#fff;
-} */
-
-/* .active {
-    background-color:#403f3f ;
-    color:#fff;
-
-} */
 #image {
   clear: left; 
  height: 900px; 
@@ -79,7 +31,7 @@ nav > a{
  background-position: center;
  position: relative;
 }
-
+/* Background image for Contact Page */
 #bg-image-contact {
     clear: left; 
    height: 900px; 
@@ -114,7 +66,6 @@ nav > a{
 #map{
     margin-top: 900px;
 }
-/* carousel */
 
 
 /* footer  */
@@ -141,13 +92,14 @@ nav > a{
          margin: 1%; 
         padding: 1%;
         color:  #403f3f;
-        /* color: #ea1b90; */
+        
     }
-}
+
+ 
+  
 
 
-
-/* Form */
+/* Form  */
 
  #form-section {
     clear: left;
@@ -164,79 +116,12 @@ nav > a{
     max-width: 400px;
     position: absolute;
     left: 10%;
-    padding: 30px;
+    padding: 50px;
     border: 1px solid #ecbbbb;
-     border-radius: 2px;
+    border-radius: 2px;
 }
 
-.signup-form > h2 {
-    color:  #fafafa;
-    margin-bottom: 20px;
-    }
-
- .text-input {
-     background: transparent;
-     color: #fafafa;
-     width: 100%;
-     height: 25px;
-     margin: 5px 0 20px;
-     border: 1px solid #ecbbbb;
-     border-radius: 2px;
- }
  
- .text-input:hover{
-     border-color:#e6e4ee;
-     background-color: #fff;
-     
- }
- 
- .join-button {
-     margin-top:20px;
-     border-radius: 2px;
-     padding: 15px 32px 15px 32px;
-     text-align: center;
-     font-size: 100%;
-     background-color: #f16c6b;
-     color:#fafafa;
-     display: block;
-      }
-      
-    .join-button:hover{
-        background-color: #fafafa;
-        color: #f16c6b;
-    }
- 
-  .about-us {
-    style="background-color: azure;"
-  }
-
-    /* Address
-
-
-    #contact-us {
-    color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400PX;
-    height: 300px;
-    position: absolute;
-    padding: 20px;
-    margin-top: 520px;
-    left: 10%;
-    border: 1px solid #ecbbbb;
-     border-radius: 2px;
-        }
-
-    h2 {
-        margin-left: 10%;
-    }
-    p {
-        margin-left: 10%;
-        word-spacing: 4px;
-    } */
-    
-
-
-
     /* Media queries  */
 
 /* for larger to medium screen from 1200px wide an down */
@@ -261,6 +146,3 @@ nav > a{
     
 }
 
- 
-   
-       
