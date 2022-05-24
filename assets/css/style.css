@@ -71,8 +71,9 @@ nav > a{
   clear: left; 
  height: 900px; 
  width: 100%;
- /* background: url('https://res.cloudinary.com/sconnections/image/upload/v1652443129/sconnections/get-motivated-minutes-morning-yoga_widzxe.jpg'); */
+ 
  background: url('https://res.cloudinary.com/sconnections/image/upload/v1652443105/sconnections/449626_rb15ih.jpg');
+ background-color: blue;
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center;
