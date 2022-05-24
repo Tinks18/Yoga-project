@@ -1,47 +1,50 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     border: none;
 }
 
-*, :after, :before {
+*,
+:after,
+:before {
     box-sizing: inherit;
 }
 
-body{
+body {
     box-sizing: border-box;
-    font-family: Lato, sans-serif; */
-    font-weight: 300; */
-    background: #fff;
-    color:  #403f3f;
+    font-family: Lato, sans-serif;
+    */ font-weight: 300;
+    */ background: #fff;
+    color: #403f3f;
 }
 
 /* Background image for Home page */
 #image {
-  clear: left; 
- height: 900px; 
- width: 100%;
- 
- background: url('https://res.cloudinary.com/sconnections/image/upload/v1652443105/sconnections/449626_rb15ih.jpg');
- background-color:blueviolet;
- background-size: cover;
- background-repeat: no-repeat;
- background-position: center;
- position: relative;
+    clear: left;
+    height: 900px;
+    width: 100%;
+
+    background: url('https://res.cloudinary.com/sconnections/image/upload/v1652443105/sconnections/449626_rb15ih.jpg');
+    background-color: blueviolet;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
 }
+
 /* Background image for Contact Page */
 #bg-image-contact {
-    clear: left; 
-   height: 900px; 
-   width: 100%;
-   background: url('https://res.cloudinary.com/sconnections/image/upload/v1652443105/sconnections/449626_rb15ih.jpg');
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-position: center;
-   background-color:blueviolet;
-  }
+    clear: left;
+    height: 900px;
+    width: 100%;
+    background: url('https://res.cloudinary.com/sconnections/image/upload/v1652443105/sconnections/449626_rb15ih.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: blueviolet;
+}
 
 
 /* gallery photos */
@@ -57,53 +60,54 @@ body{
     line-height: 0;
     column-gap: 0;
     column-count: 4;
-  
+
 }
 
-#photos > img {
-    width:100%;
+#photos>img {
+    width: 100%;
 }
-#map{
+
+#map {
     margin-top: 900px;
 }
 
 
 /* footer  */
 
- footer {
-    height: 200px;  
-    
+footer {
+    height: 200px;
+
 }
 
-   .margin {
-     margin-top: 800px;
-    } 
+.margin {
+    margin-top: 800px;
+}
 
-   .links {
+.links {
     text-align: center;
-   }
+}
 
-   .links > li  {
+.links>li {
     display: inline;
-      }
+}
 
-   .links  i {
-        font-size: 150%;
-         margin: 1%; 
-        padding: 1%;
-        color:  #403f3f;
-        
-    }
+.links i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 1%;
+    color: #403f3f;
 
- 
-  
+}
+
+
+
 
 
 /* Form  */
 
- #form-section {
+#form-section {
     clear: left;
-  background: url('https://res.cloudinary.com/sconnections/image/upload/v1652443105/sconnections/449626_rb15ih.jpg');
+    background: url('https://res.cloudinary.com/sconnections/image/upload/v1652443105/sconnections/449626_rb15ih.jpg');
     background-size: cover;
     background-position: center;
     height: 600px;
@@ -121,41 +125,41 @@ body{
     border-radius: 2px;
 }
 
- 
-    /* Media queries  */
+
+/* Media queries  */
 
 /* for larger to medium screen from 1200px wide an down */
 
-@media screen and (max-width: 1200px) {
-   
+@media screen and (max-width: 1200px) {}
 
-
-
-}
 /* for media screen sizes from 950 px wid and down*/
-@media screen and (max-width: 950px) {    
+@media screen and (max-width: 950px) {
 
     #photos {
         column-count: 3;
     }
 }
+
 /* media query for 800px and down */
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
-    
+
+    }
+
+    .signup-form {
+        max-width: 50%;
+    }
 }
-.signup-form{
-    max-width: 50%;
-}
-}
+
 /* media query for 400px and down */
 @media screen and (max-width: 500px) {
     #photos {
         column-count: 2;
-    
-}
-.signup-form{
-    max-width: 80%;
-}
+
+    }
+
+    .signup-form {
+        max-width: 80%;
+    }
 }
