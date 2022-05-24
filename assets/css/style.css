@@ -20,6 +20,11 @@ body {
     color: #403f3f;
 }
 
+.navbar {
+    
+    margin-bottom:  0;
+
+}
 /* Background image for Home page */
 #image {
     clear: left;
