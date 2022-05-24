@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Oswald&display=swap');
 
 * {
     margin: 0;
@@ -14,7 +14,9 @@
 
 body {
     box-sizing: border-box;
-    font-family: Lato, sans-serif;
+    /* font-family: Montserrat, sans-serif; */
+    font-family: 'Josefin-Slab';
+    font-family: 'Architects-Daughter';
     */ font-weight: 300;
     */ background: #fff;
     color: #403f3f;
@@ -82,8 +84,8 @@ body {
 /* footer  */
 
 footer {
-    height: 200px;
-
+    height: 250px;
+    /* background-color: rgb(0, 162, 255); */
 }
 
 .margin {

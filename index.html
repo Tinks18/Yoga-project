@@ -8,10 +8,11 @@
     content="ShubhConnections yoga studio for learning Mindfullness and Yoga in Navan,Dublin,Ireland">
   <meta name="keywords" content="Yoga,Mindfullness,Navan,Dublin,Ireland">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Josefin-Slab|Architects-Daughter" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" />
   <title>Shubh-Connections</title>
   <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
@@ -19,10 +20,10 @@
 
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
   <header>
-    <div class="jumbotron text-center">
+    <div class="jumbotron  text-center">
       <h1>Shubh Connections Yoga</h1>
     </div>
-    <nav class="navbar navbar-inverse">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -36,8 +37,11 @@
           <ul class="nav navbar-nav navbar-right">
             <li class="active"><a href="index.html"><span class="glyphicon glyphicon-home"></span> Home</a></li>
 
-            <li><a href="gallery.html"><span class="glyphicon glyphicon-th"></span> Gallery</a></li>
-            <li><a href="contact.html"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+            <li><a href="#gallery"><span class="glyphicon glyphicon-th"></span> Gallery</a></li>
+            <li><a href="#meet-teacher"><i class="fa fa-meetup" aria-hidden="true"></i> Meet Us</a></li>
+            <li><a href="#locate-us"><i class="fa fa-map-marker" aria-hidden="true"></i> Locate Us</a></li>
+
+            <li><a href="#sign-up"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
 
           </ul>
         </div>
@@ -165,7 +169,7 @@
                   src="https://res.cloudinary.com/sconnections/image/upload/c_scale,h_300,q_auto/v1652443256/sconnections/Yoga-Photography_3_kfltjs.jpg"
                   alt="women doing yoga on a beach">
               </a>
-    
+
               <a href="#" class="col col--6" data-fancybox="demo"
                 data-src="https://res.cloudinary.com/sconnections/image/upload/v1652443165/sconnections/pexels-photo-68468_uu4ulz.jpg">
                 <img
@@ -180,7 +184,7 @@
                   src="https://res.cloudinary.com/sconnections/image/upload/c_scale,h_300/v1652923116/sconnections/pexels-photo-1300526_pmvd7y.webp"
                   alt="women holding yoga pose on a beach">
               </a>
-    
+
               <a href="#" class="col col--6" data-fancybox="demo"
                 data-src="https://res.cloudinary.com/sconnections/image/upload/v1653033385/sconnections/pexels-photo-3820296_lpbqug.jpg">
                 <img
@@ -193,15 +197,15 @@
                   src="https://res.cloudinary.com/sconnections/image/upload/c_scale,h_300/v1652923255/sconnections/pexels-photo-3772502_iy5j1c.jpg"
                   alt="man doing yoga in residential play area">
               </a>
-    
-    
+
+
             </div>
           </div>
         </div>
       </div>
       -
     </section>
-    <section id="meet-teacher" >
+    <section id="meet-teacher">
       <!-- section heading -->
       <hr>
       <div class=" jumbotron text-center">
@@ -278,7 +282,7 @@
                 </p>
               </article>
             </div>
-            <div class="col-sm-4 text-center " >
+            <div class="col-sm-4 text-center ">
               <h3>Testimonial</h3>
               <article>
                 <P>𝐀𝐮𝐝𝐫𝐞𝐲 𝐇𝐨𝐠𝐚𝐧, 𝐃𝐮𝐛𝐥𝐢𝐧 </P>
@@ -311,32 +315,42 @@
       </div>
     </section>
 
-   <!-- Sign up! -->
+    <!-- Sign up! -->
     <section id="sign-up">
-      <div class="container">
+      <hr>
+      
+      
+   
+
+<div>
+      <div class="container bg-info text-center">
         <h2 class="text-center">Sign up!</h2>
+        
         <form method="POST" action="https://formdump.codeinstitute.net/" action="/action_page.php">
           <div class="form-group">
-            <label for="fname">First Name:</label>
+            <label for="fname"></label>
             <input type="input" class="form-control" id="fname" placeholder="First Name" name="first_name">
           </div>
           <div class="form-group">
-            <label for="fname">Last Name:</label>
+            <label for="fname"></label>
             <input type="input" class="form-control" id="lname" placeholder="Last Name" name="last_name">
           </div>
           <div class="form-group">
-            <label for="email">Email:</label>
+            <label for="email"></label>
             <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
           </div>
-  
+
           <button type="submit" class="btn btn-default">Submit</button>
         </form>
       </div>
-      -
+      </div>
+      
     </section>
 
     <!-- Location on Google Maps -->
-    <section>
+    <section id="locate-us">
+      <hr>
+      
       <iframe
         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d151768.77844123924!2d-7.009893000000001!3d53.533001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5afafe4de44bd3e!2sShubh%20Connections!5e0!3m2!1sen!2sus!4v1651707134873!5m2!1sen!2sus"
         width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
@@ -344,7 +358,7 @@
     </section>
 
     <!-- Footer  -->
-    <footer class="container-fluid  text-center">
+    <footer class="container-fluid bg-primary text-center">
       <a href="#myPage" title="To Top">
         <span>Back to Top</span>
       </a>
@@ -383,15 +397,16 @@
 
 
     </footer>
+
     <!-- font awesome script -->
 
     <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
     <!-- bootstrap script -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-     <!-- fancybox script -->
+    <!-- fancybox script -->
 
-    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script> 
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
   </main>
 </body>
 
