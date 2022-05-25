@@ -40,6 +40,12 @@ h2{
     background-color: #fff;
 }
 
+.btn{
+    font-weight: bold;
+    color: #fff;
+    background-color: #101010;
+
+}
 /* Background image for Meet the teacher section */
 #meet-teacher {
     clear: left;
