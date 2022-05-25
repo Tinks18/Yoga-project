@@ -23,9 +23,9 @@ body {
 }
 .jumbotron{
     margin-bottom: 0;
-        background-color: #1f13c9; /* Orange */
+        background-color: #f4511e; /* Orange */
         color: #ffffff;
-     */
+    
 }
 .navbar {
     margin-top: 0;
@@ -35,9 +35,7 @@ body {
 h2{
     padding: 2rem;
 }
-.bg-grey {
-    background-color: #f6f6f6;
-  }
+
 /* Background image for Home page */
 #image {
     clear: left;
@@ -94,8 +92,7 @@ h2{
 
 footer {
     height: 250px;
-    background-color: #1f13c9; 
-    color:#ffffff;
+    background-color: #f4511e;
     /* background-color: rgb(0, 162, 255); */
 }
 
@@ -105,7 +102,6 @@ footer {
 
 .links {
     text-align: center;
-    
 }
 
 .links>li {
@@ -116,8 +112,7 @@ footer {
     font-size: 150%;
     margin: 1%;
     padding: 1%;
-    /* color: #403f3f; */
-    color: #ffffff;
+    color: #403f3f;
 
 }
 
