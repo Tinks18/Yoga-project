@@ -77,10 +77,13 @@ div.transbox {
     color: #000000;
   }
 
-  div.transbox h2,h3 {
+  div.transbox h3 {
       color:#000000;
   }
 
+  div.transbox h2 {
+    color:#000000;
+}
 
 /* Background image for Home page */
 
