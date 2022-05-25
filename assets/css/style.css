@@ -23,13 +23,14 @@ body {
 }
 .jumbotron{
     margin-bottom: 0;
-         -m      
+    background-color: #fff;     
 }
 .navbar {
     margin-top: 0;
     margin-bottom:  0;
 
 }
+
 .imglist{
     padding-top: 2rem;
     padding-bottom: 2rem;
