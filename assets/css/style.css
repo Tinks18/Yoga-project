@@ -37,16 +37,61 @@ body {
     padding-bottom: 2rem;
 }
 h2{
-    padding: 2rem;
+    padding: 3rem;
+    background-color: #fff;
 }
 
+/* Background image for Meet the teacher section */
+#meet-teacher {
+    clear: left;
+    height: auto;
+    width: 100%;
+    background: url('../images/get-motivated-minutes-morning-yoga-min.jpg');
+    padding: auto;
+    background-color: rgb(128, 104, 151);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    padding: 1%;
+   
+
+}
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.7;
+    /* padding: 2rem; */
+  }
+  
+  div.transbox p {
+    
+    font-weight: bold;
+    color: #000000;
+  }
+
+/* #sign-up {
+    clear: left;
+    height: 400px;
+    width: 100%;
+    background: url('../images/international-yoga-day-poster-with-silhouettes-posing-vector.jpg');
+    
+    background-color: blueviolet;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+
+} */
+
 /* Background image for Home page */
+
 #image {
     clear: left;
     height: 900px;
     width: 100%;
-
-    background: url('https://res.cloudinary.com/sconnections/image/upload/v1652443105/sconnections/449626_rb15ih.jpg');
+    background: url('../images/Mindfulness-Yoga-min.jpg');
     background-color: blueviolet;
     background-size: cover;
     background-repeat: no-repeat;
@@ -55,7 +100,7 @@ h2{
 }
 
 /* Background image for Contact Page */
-#bg-image-contact {
+/* #bg-image-contact {
     clear: left;
     height: 900px;
     width: 100%;
@@ -64,7 +109,7 @@ h2{
     background-repeat: no-repeat;
     background-position: center;
     background-color: blueviolet;
-}
+} */
 
 
 /* gallery photos */
@@ -72,6 +117,7 @@ h2{
 #gallery {
     margin-top: 900px;
     word-spacing: 4px;
+    height: auto;
 }
 
 
@@ -88,7 +134,7 @@ h2{
 }
 
 #map {
-    margin-top: 1200px;
+    margin: 1%;
 }
 
 
@@ -101,9 +147,7 @@ footer {
     /* background-color: rgb(0, 162, 255); */
 }
 
-.margin {
-    margin-top: 800px;
-}
+
 
 .links {
     text-align: center;
