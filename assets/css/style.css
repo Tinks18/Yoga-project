@@ -44,7 +44,10 @@ h2{
     font-weight: bold;
     color: #fff;
     background-color: #101010;
+}
 
+.form-control{
+    border-color: #101010;
 }
 /* Background image for Meet the teacher section */
 #meet-teacher {
