@@ -32,6 +32,10 @@ body {
     margin-bottom:  0;
 
 }
+.imglist{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
 h2{
     padding: 2rem;
 }
