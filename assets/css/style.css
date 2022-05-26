@@ -54,7 +54,7 @@ h2{
     width: 100%;
     background: url('../images/get-motivated-minutes-morning-yoga-min.jpg');
     padding: auto;
-     background-color: rgb(196, 234, 228); */
+    background-color: rgb(196, 234, 228); */
    
     background-size: cover;
     background-repeat: no-repeat;
@@ -93,7 +93,7 @@ div.transbox {
     height: 900px;
     width: 100%;
     background: url('../images/Mindfulness-Yoga-min.jpg');
-    background-color: blueviolet;
+    background-color: rgb(205, 169, 238);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
