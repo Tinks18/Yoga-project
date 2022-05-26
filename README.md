@@ -58,33 +58,42 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_navigation-bar.jpg)
 
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_landing-page.jpg)
 
-- __Club Ethos Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+- __Gallery Section__
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+  - The gallery section will allow the user to see the benefits of joining the Shubh Connections studio, as well as the benefits of yoga overall. 
+  - This user will see the value of signing up for the Shubh Connections courses. This should encourage the user to consider yoga as their form of exercise. 
 
-- __Meetup Times section__
+![Gallery](https://github.com/Tinks18/Yoga-project/blob/main/docs/gallery.jpg)
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+- __Meet the teacher section__
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+  - This section will allow the user to see a profile of the teacher, where they have learned and how long they have been taking yoga and mindfullness courses. 
+  - The section also includes testimonials from participants.
+  - This section will be updated as testimonials change to keep the user up to date. 
+
+![Meet the Teacher](https://github.com/Tinks18/Yoga-project/blob/main/docs/Meet-the-teacher.jpg)
+
+__Contact Us__ 
+
+  - The Contact section includes a form the user can fill up to get in touch with the studio. 
+  - The contact setction also contains the address of the studio and email address and contact number of the studio.
+
+  ![Contact Us](https://github.com/Tinks18/Yoga-project/blob/main/docs/contact-us.jpg)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to the relevant social media sites for Shubh Connections. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
