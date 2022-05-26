@@ -45,7 +45,7 @@ h2{
 }
 
 .form-control{
-    border-color: #fff8ef;
+    border-color: #101010;
 }
 /* Background image for Meet the teacher section */
 #meet-teacher {
@@ -54,8 +54,7 @@ h2{
     width: 100%;
     background: url('../images/get-motivated-minutes-morning-yoga-min.jpg');
     padding: auto;
-    background-color: rgb(196, 234, 228); */
-   
+    background-color: rgb(128, 104, 151);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -93,7 +92,7 @@ div.transbox {
     height: 900px;
     width: 100%;
     background: url('../images/Mindfulness-Yoga-min.jpg');
-    background-color: rgb(205, 169, 238);
+    background-color: blueviolet;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -111,13 +110,11 @@ div.transbox {
     height: auto;
 }
 
-#galleryhp{
-    font-size: medium;
-}
 .imglist{
-    padding-top: 0.5%;
-    padding-bottom: 1%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
+
 
 
 /* footer  */
@@ -179,19 +176,19 @@ footer {
 } */ 
 
 /* media query for 800px and down */
-/* @media screen and (max-width: 800px) {
+@media screen and (max-width: 800px) {
     
 
     .signup-form {
         max-width: 50%;
     }
-} */
+}
 
 /* media query for 400px and down */
-/* @media screen and (max-width: 500px) {
+@media screen and (max-width: 500px) {
     
 
     .signup-form {
         max-width: 80%;
     }
-} */
+}
