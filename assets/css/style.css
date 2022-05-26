@@ -171,3 +171,9 @@ span {
     border: 1px solid #ecbbbb;
     border-radius: 2px;
 }
+
+.myiframe {
+    width: 100%;
+    height: 300px;
+    border: none;
+}
