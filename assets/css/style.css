@@ -25,6 +25,7 @@ body {
     background-color: #fff;
 }
 
+/* navigation bar  */
 .navbar {
     margin-top: 0;
     margin-bottom: 0;
@@ -32,9 +33,6 @@ body {
 }
 
 /* contact form  */
-
-
-
 
 .btn {
     font-weight: bold;
@@ -49,7 +47,7 @@ body {
 
 
 
-/* Background image for Meet the teacher section */
+/*  Meet the teacher section */
 #meet-teacher {
     clear: left;
     height: auto;
@@ -162,7 +160,7 @@ span {
 /* About -Us  */
 
 
-.signup-form {
+.about-us {
     margin: 110px 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
