@@ -30,7 +30,7 @@ body {
     margin-bottom:  0;
 
 }
-
+/* contact form  */
 
 
 
@@ -43,7 +43,11 @@ body {
 
 .form-control{
     border-color: #101010;
+    
 }
+
+
+ 
 /* Background image for Meet the teacher section */
 #meet-teacher {
     clear: left;
@@ -83,6 +87,9 @@ div.transbox {
   }
 
   div.transbox h2 {
+    color:#000000;
+}
+div.transbox label {
     color:#000000;
 }
 
@@ -150,7 +157,7 @@ span {
 
 
 
-/* Form  */
+/* About -Us  */
 
 
 .signup-form {
@@ -166,32 +173,4 @@ span {
 }
 
 
-/* Media queries  */
 
-/* for larger to medium screen from 1200px wide an down
-
-@media screen and (max-width: 1200px) {}
-
-/* for media screen sizes from 950 px wid and down*/
-/* @media screen and (max-width: 950px) {
-
-   
-} */ 
-
-/* media query for 800px and down */
-@media screen and (max-width: 800px) {
-    
-
-    .signup-form {
-        max-width: 50%;
-    }
-}
-
-/* media query for 400px and down */
-@media screen and (max-width: 500px) {
-    
-
-    .signup-form {
-        max-width: 80%;
-    }
-}
