@@ -30,10 +30,7 @@ body {
     margin-bottom:  0;
 
 }
-h2{
-    padding: 3rem;
-    background-color: #fff;
-}
+
 
 
 
@@ -62,6 +59,10 @@ h2{
     padding: 1%;
    
 
+}
+#meet-teacher h2{
+    padding: 3rem;
+    background-color: #fff;
 }
 div.transbox {
     margin: 30px;
