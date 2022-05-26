@@ -45,7 +45,7 @@ h2{
 }
 
 .form-control{
-    border-color: #101010;
+    border-color: #fff8ef;
 }
 /* Background image for Meet the teacher section */
 #meet-teacher {
@@ -54,7 +54,8 @@ h2{
     width: 100%;
     background: url('../images/get-motivated-minutes-morning-yoga-min.jpg');
     padding: auto;
-    background-color: rgb(128, 104, 151);
+     background-color: rgb(196, 234, 228); */
+   
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -117,7 +118,6 @@ div.transbox {
     padding-top: 0.5%;
     padding-bottom: 1%;
 }
-
 
 
 /* footer  */
