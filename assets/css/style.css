@@ -45,23 +45,18 @@ body {
 
 }
 
-
-
 /*  Meet the teacher section */
 #meet-teacher {
     clear: left;
     height: auto;
     width: 100%;
     background: url('../images/get-motivated-minutes-morning-yoga-min.jpg');
-    padding: auto;
     background-color: rgb(128, 104, 151);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
     padding: 1%;
-
-
 }
 
 #meet-teacher h2 {
@@ -154,12 +149,7 @@ span {
     background-color: #fff;
 }
 
-
-
-
 /* About -Us  */
-
-
 .about-us {
     margin: 110px 10% 0 0;
     color: #fff;
