@@ -72,6 +72,8 @@ In this section, you should go over the different parts of your project, and des
 
   - The gallery section will allow the user to see the benefits of joining the Shubh Connections studio, as well as the benefits of yoga overall. 
   - This user will see the value of signing up for the Shubh Connections courses. This should encourage the user to consider yoga as their form of exercise. 
+  - The gallery will provide the user with supporting images to see what the classes look like. 
+  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
 
 ![Gallery](https://github.com/Tinks18/Yoga-project/blob/main/docs/gallery.jpg)
 
@@ -83,32 +85,31 @@ In this section, you should go over the different parts of your project, and des
 
 ![Meet the Teacher](https://github.com/Tinks18/Yoga-project/blob/main/docs/Meet-the-teacher.jpg)
 
-__Contact Us__ 
 
-  - The Contact section includes a form the user can fill up to get in touch with the studio. 
-  - The contact setction also contains the address of the studio and email address and contact number of the studio.
+- __The Sign Up Section__
 
+  - This page will allow the user to get signed up to Shubh Connections  to start their Yoga and midfullness journey with the community. The user will be able specify if they would like to book a yoga session or MBSR eight week course or mindful eating or a weekend retreat. 
+  - The Contact section includes a form where the user will be asked to submit their full name and email address and comments . 
+  - The contact section will also provide the address, contact number and email address of the studio .
+  
   ![Contact Us](https://github.com/Tinks18/Yoga-project/blob/main/docs/contact-us.jpg)
 
-- __The Footer__ 
+
+   __The Locate Us Section__
+
+   - The section also includes location of Subh Connections studio on google maps.
+   - The user can move the map up and down and also zoom in and out to find the excat location when planning a trip to the studio.
+
+  ![Locate Us](https://github.com/Tinks18/Yoga-project/blob/main/docs/map.jpg)
+
+
+   __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Shubh Connections. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_footer.jpg)
 
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Shubh Connections  to start their running journey with the community. The user will be able specify if they would like to book a yoga session or MBSr eight week course or mindful eating or a weekend retreat. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
