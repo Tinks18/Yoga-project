@@ -1,9 +1,69 @@
 
 # Shubh Connections
 
-   Shubh Connection is a site that hopes to help keep people motivated to meet up for yoga on a regular basis in Navan co Meath, Ireland. The site will be targeted toward yoga enthusiasts who are looking for a way to socialise and keep themselves fit. Shubh  Connections will be useful for users to see exactly when and where they should be to join the Shubh Connections courses and events. The page gives an overview about the studio and its history.The page outlines the services that be booked at the studio. Shubh Connections yoga studio wants to help the user achieve optimum health and achieve their well being  and stress release goals.
+[Visit the website here](https://tinks18.github.io/Yoga-project/)
+
+   Shubh Connection is a site that hopes to help keep people motivated to meet up for yoga on a regular basis in Navan co Meath, Ireland. The site will be targeted toward yoga enthusiasts who are looking for a way to socialise and keep themselves fit. Shubh  Connections will be useful for users to see exactly when and where they should be to join the Shubh Connections courses and events. The page gives an overview about the studio and its history.The page outlines the services that be booked at the studio. Shubh Connections yoga studio wants to help the user achieve optimum health and achieve their well being  and stress release goals.This website was made for educational purposes only.
+
+   The business goals for this website are:
+
+1. To advise users on how to do join yoga and mindfullness courses
+2. To inspire users to meditation 
+3. Earn commission from links provided 
+4. Build a database of users to send future information & content to, thus furthering the reach of the     author.
+
 
   ![Responsice Mockup](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_mock-up.jpg)
+
+## UX
+---
+### **Strategy**
+
+Considering the core UX principles I first started to think about the strategy for this website and defined who the target users would be and what features/technologies they would want.
+
+Shubh Connectiosn's target users are:
+* Aged 18-80
+* Past/future yoga enthusiasts
+* People interested in meditation and mindfullness
+* Have an interest in visiting midefullness events
+
+What these users would be looking for:
+* Clear, concise, easy-to-find information
+* Beautiful photos that provide inspiration and make the exercises look desirable
+* Helpful guidance on courses available
+* Recommendations for healthy eating habits
+
+This website will offer all of these things whilst also allowing for intuitive navigation and comfortability of use. An effort was taken to not provide an overwhelming amount of information at first glance as this is often the reason people are put off with travel guides.
+
+Due to the age group of the users, it is assumed that most users will be viewing the site on their mobile phones and therefore creating something responsive is integral to the design.
+
+### **Scope**
+
+In order to achieve the desired user & business goals, the following features will be included in this release:
+
+- Header and menu bar, to navigate to various sections of the page
+- Information section full of tips for yoga and minfullness 
+- Interactive map for the route to the yoga studio
+- Information, recommendations and advice for mindfullness meditation
+- Gallery of images from the yoga and mediatation
+- Course sign up form
+- Links to affiliate social media pages
+
+### **Structure** 
+
+This is a single-page website to allow for desired flow; the navigation bar at the top allows for users to easily move to whatever section of the site they are interested in or they can simply scroll through the information as it is displayed. I chose the following order for the information 'Home > About us > Gallery > Meet the teacher> Conatct us ', as I felt this would allow the information to be digested in the best way. The text blocks are broken up with images to ensure interest is kept and there is no information overload at any point. There is a concise review of Shubh Connections before the more in-detail guide as I wanted users to be able to find these key bits of information quickly. Finally, there is a simple sign up form for users to sign up to the Shubh Connections's Yoga Website.
+
+### **Skeleton**
+
+
+Whilst building the website I felt that there were sections with too much information, for this reason, I opted to install the read more button on all devices and not just the mobile. This allows for user's to only read on if they would like the more detailed information; I felt giving the user this control would provide a positive user experience. 
+
+I also decided to change my photo slideshow to a Fancybox gallery as I felt it looked cleaner and I preferred this method of interaction, it also allowed for better responsiveness and the images looked better on larger screens. 
+
+
+### **Surface**
+
+I chose a colour palette based around sunset and  bright light  as these colours remind me of the sea & being amongst nature; I want the users of this website to be transported to their memories of welbeing and calm  and believe these colours will help to do this. I paired these with a lighter off-white to allow for appropriate contrast. 
 
 
 ## The site structure:
@@ -20,9 +80,9 @@ The six sections are:
 
 ## Features 
 
-    Connections Yoga  provides and overview of the site owner in the About us section, it also provides a list of courses available to book.This feature is  value  for the user, as it gives  yoga and meditation enthusiasts an introduction to the Shubh Connections studio and its history as well services offered. 
-    My project outlines diffrent services that can be availed and thus is alink between the user and Shubh Connections Studio as it provides information and motivates users to join the community and stay in touch via various social links and help more people join the studio  events. The site has a Gallery showing difrent yoga poses and people in meditation giving them ideas as to what can be a possibility in their welnness journey. The Conatact Us feature provides all the necessary information to get in touch with the studio. It is of value to the user as it also includes the location of the studio on google maps.The Social links at the bottom of the page helps the yoga enthusiaist keeps in touch with Shubh Connections studio.
+  This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed; the page is divided into the four sections listed in the navbar. Where a colour background has been used it has a slightly transparent opacity and the text is off-white. All of the headings use the font Josephine and the body text is sanserif, this consistency has been used across the website to create a coherent design. 
 
+    
 
 ### Existing Features
 
@@ -158,6 +218,7 @@ The interesting bugs or problems discovered during testing, some of which have n
 
 ## Deployment
 
+
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
@@ -165,19 +226,40 @@ The interesting bugs or problems discovered during testing, some of which have n
 
 The live link can be found here - https://tinks18.github.io/Yoga-project/ 
 
-
 ## Credits 
 
-References as to whereabouts of my content, media and extra help :
-- Code snippets were taken from [w3c bootstrap tutorials](https://www.w3schools.com/bootstrap/default.asp).
-- Code snippets for the background styling on the contacts page and home page were taken from the "Love Running project" of Code institute.
-  (however, it is important to be very specific about these sources to avoid plagiarism. 
-- Code for images to my gallery from the fancy box library .
-- Code snippets from my mentor Guido Cecilio for images in the gallery.
-- My mentor Guido Cecilio was an immense help in validating the code and wonderful guide by giving me advice on how the website should look and feel his input on the gallery deserves a spcial mention the fancy box gallery.
+I have used a number of resources to produce this website, where code has been used found from another source this is credited as a comment within the HTML, CSS and JS files.
 
+The following websites/articles were used for research and guidance:
+
+- [Wireframes](https://careerfoundry.com/en/blog/ux-design/wireframing-mobile-apps-websites/)
+
+- [Design tips](https://99designs.co.uk/blog/tips/responsive-web-design-key-tips-and-approaches/)
+
+- [Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+
+- [Accessibility for burger menu](https://medium.com/@linlinghao/accessibility-for-hamburger-menu-a37fa9617a89) 
+
+I used code from the following resources:
+
+- [Responsive Navbar](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
+
+- [Animated scroll down arrow](https://codepen.io/JoshMac/pen/MaYEmJ)
+
+- [Read more button](https://www.w3schools.com/howto/howto_js_read_more.asp)
+    - This code was used but the JS function was heavily edited with the help of my tutor Guido.
+
+- [Sign up form](https://wwww.w3schools.com)
+    - I used this code as the basis of my form but changed the styling.
+
+- [Image grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
+
+- [Fancybox gallery](https://fancyapps.com/fancybox/3/docs/#images)
+
+- [Visually hidden elements](https://www.w3.org/WAI/tutorials/forms/labels/)
+
+- Code snippets for the background styling on the contacts page and home page were taken from the "Love     Running project" of Code institute.
  
-
 ### Content 
 
 - The text for the Home page was taken from Aparna Shukla 
@@ -194,6 +276,65 @@ References as to whereabouts of my content, media and extra help :
 
 
 Discalimer: All content has been used only for educational purposes to create a project and is not for commercial use.
+
+## Technologies Used 
+
+I have used several technologies that have enabled this design to work:
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - Used as the basic building block for the project and to structure the content.
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    - Used to style all the web content across the project. 
+- [JavaScript](https://www.javascript.com/)
+    - Used for the responsive navbar, form, scroll down arrow and read more/read less button.
+- [Google Fonts](https://fonts.google.com/)
+    - Used to obtain the fonts linked in the header, fonts used were Playfair and Cookie
+- [Font Awesome](https://fontawesome.com/)
+    - Used to obtain the social media icons used in the footer and the icons in La Petite Review.
+- [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+    - Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
+- [GitHub](https://github.com/)
+    - Used to store code for the project after being pushed.
+- [Git](https://git-scm.com/)
+    - Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+- [Gitpod](https://www.gitpod.io/)
+    - Used as the development environment.
+- [Balsamiq](https://balsamiq.com/)
+    - Used to create the wireframes for the project.
+- [AutoPrefixer](https://autoprefixer.github.io/)
+    - Used to parse my CSS and ass vendor prefixes.
+- [Grammarly](https://www.grammarly.com/)
+    - Used to fix the thousands of grammar errors across the project.
+- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)
+    - Used to detect overflow of elements, which allowed me to quickly debug any issues.
+- [Coloors](https://coolors.co/)
+    - Used to create a colour palette for the design.
+- [Fancybox](https://fancyapps.com/fancybox/3/)
+    - Used to format my Sri Lanka photo gallery.
+- [Favicon.io](https://favicon.io/)
+    - Used to create favicon's for my website
+- [Tiny.png](https://tinypng.com/)
+    - Allowed me to compress my images so that the page would load faster.
+- [Color Contrast Accessibility Validator](https://color.a11y.com/)
+    - Allowed me to test the colour contrast of my webpage.
+- [W3C Markup Validation Service](https://validator.w3.org/) 
+    - Used to validate all HTML code written and used in this webpage.
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
+    - Used to validate all CSS code written and used in this webpage.
+- [Freeformatter CSS Beautify](https://www.freeformatter.com/css-beautifier.html)
+    - Used to accurately format my CSS code.
+- [Freeformatter HTML Formatter](https://www.freeformatter.com/html-formatter.html)
+    - Used to accurately format my HTML code.
+- [AmIResponsive](http://ami.responsivedesign.is/)
+    - Used to generate repsonsive image used in README file.
+
+---
+
+## Acknowledgements
+
+I would like to thank my course mentor Guido Cecilio for his support and guidance throughout the course of the project and my cohort guide Kenan support & feedback.
+
+---
 
 
 
