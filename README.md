@@ -1,33 +1,27 @@
 
-
-
-
-
-
-
-
-
 # Shubh Connections
 
- Shubh Connection is a site that hopes to help keep people motivated to meet up for yoga on a regular basis in Navan co Meath, Ireland. The site will be targeted toward yoga enthusiasts who are looking for a way to socialise and keep themselves fit. Shubh  Connections will be useful for users to see exactly when and where they should be to join the Shubh Connections courses and events. The page gives an overview about the studio and its history.The page outlines the services that be booked at the studio. Shubh Connections yoga studio wants to help the user achieve optimum health and achieve their well being  and stress release goals.
+   Shubh Connection is a site that hopes to help keep people motivated to meet up for yoga on a regular basis in Navan co Meath, Ireland. The site will be targeted toward yoga enthusiasts who are looking for a way to socialise and keep themselves fit. Shubh  Connections will be useful for users to see exactly when and where they should be to join the Shubh Connections courses and events. The page gives an overview about the studio and its history.The page outlines the services that be booked at the studio. Shubh Connections yoga studio wants to help the user achieve optimum health and achieve their well being  and stress release goals.
 
-![Responsice Mockup](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_mock-up.jpg)
+  ![Responsice Mockup](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_mock-up.jpg)
 
 
 ## The site structure:
 
 The site has four links on the landing page that open different sections on the same page that can also be seen by scrolling down.
-The four sections are:
+The six sections are:
+- Navigation Bar
 - About Us
 - Gallery 
 - Meet the Teacher
 - Contact Us
+- Footer
 
 
 ## Features 
 
-Shubh Connections Yoga  provides and overview of the site owner in the About us section, it also provides a list of courses available to book.This feature is  value  for the user, as it gives  yoga and meditation enthusiasts an introduction to the Shubh Connections studio and its history as well services offered. 
-My project outlines diffrent services that can be availed and thus is alink between the user and Shubh Connections Studio as it provides information and motivates users to join the community and stay in touch via various social links and help more people join the studio  events. The site has a Gallery showing difrent yoga poses and people in meditation giving them ideas as to what can be a possibility in their welnness journey. The Conatact Us feature provides all the necessary information to get in touch with the studio. It is of value to the user as it also includes the location of the studio on google maps.The Social links at the bottom of the page helps the yoga enthusiaist keeps in touch with Shubh Connections studio.
+    Connections Yoga  provides and overview of the site owner in the About us section, it also provides a list of courses available to book.This feature is  value  for the user, as it gives  yoga and meditation enthusiasts an introduction to the Shubh Connections studio and its history as well services offered. 
+    My project outlines diffrent services that can be availed and thus is alink between the user and Shubh Connections Studio as it provides information and motivates users to join the community and stay in touch via various social links and help more people join the studio  events. The site has a Gallery showing difrent yoga poses and people in meditation giving them ideas as to what can be a possibility in their welnness journey. The Conatact Us feature provides all the necessary information to get in touch with the studio. It is of value to the user as it also includes the location of the studio on google maps.The Social links at the bottom of the page helps the yoga enthusiaist keeps in touch with Shubh Connections studio.
 
 
 ### Existing Features
@@ -39,14 +33,14 @@ My project outlines diffrent services that can be availed and thus is alink betw
   - The Navigation bar was fixed to the top so that the diffrent sections and links get highlighted when the user scrolls the website.
   - The navigation bar gets converted in to a burger menu on mobile screens which when clicked gives a drop down menu of the links. 
 
-![Nav Bar](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_navigation-bar.jpg)
+   ![Nav Bar](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_navigation-bar.jpg)
 
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
-![Landing Page](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_landing-page.jpg)
+    ![Landing Page](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_landing-page.jpg)
 
 
 - __Gallery Section__
@@ -62,7 +56,7 @@ My project outlines diffrent services that can be availed and thus is alink betw
   - The gallery adjusts the pictures according to the screen size sothe columns vary on different tablets.
   
 
-![Gallery](https://github.com/Tinks18/Yoga-project/blob/main/docs/gallery.jpg)
+   ![Gallery](https://github.com/Tinks18/Yoga-project/blob/main/docs/gallery.jpg)
 
 - __Meet the teacher section__
 
@@ -70,7 +64,7 @@ My project outlines diffrent services that can be availed and thus is alink betw
   - The section also includes testimonials from participants.
   - This section will be updated as testimonials change to keep the user up to date. 
 
-![Meet the Teacher](https://github.com/Tinks18/Yoga-project/blob/main/docs/Meet-the-teacher.jpg)
+    ![Meet the Teacher](https://github.com/Tinks18/Yoga-project/blob/main/docs/Meet-the-teacher.jpg)
 
 
 - __The Contact Us Section__
@@ -79,23 +73,23 @@ My project outlines diffrent services that can be availed and thus is alink betw
   - The Contact section includes a form where the user will be asked to submit their full name and email address and comments . 
   - The contact section displays site owners contact information: address, contact number and email address of the studio .
   
-  ![Contact Us](https://github.com/Tinks18/Yoga-project/blob/main/docs/contact-us.jpg)
+    ![Contact Us](https://github.com/Tinks18/Yoga-project/blob/main/docs/contact-us.jpg)
 
 
-   __The Locate Us Section__
+- __The Locate Us Section__
 
    - The section also includes location of Subh Connections studio on google maps.
    - The user can move the map up and down and also zoom in and out to find the excat location when planning a trip to the studio.
 
-  ![Locate Us](https://github.com/Tinks18/Yoga-project/blob/main/docs/map.jpg)
+    ![Locate Us](https://github.com/Tinks18/Yoga-project/blob/main/docs/map.jpg)
 
 
-   __The Footer__ 
+ -  __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Shubh Connections. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media.
+    - The footer section includes links to the relevant social media sites for Shubh Connections. The links will open to a new tab to allow easy navigation for the user. 
+    - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-  ![Footer](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_footer.jpg)
+    ![Footer](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_footer.jpg)
 
 
 
@@ -160,7 +154,7 @@ The interesting bugs or problems discovered during testing, some of which have n
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+    the gitpod bug could not be dealt with but ended up wasting a lot of my time which in turn resulted in alot of things that coud not be added to the project. I wish they figure it  out. The commits that are done locally should not belost just because you close your workspace. 
 
 ## Deployment
 
@@ -195,7 +189,7 @@ References as to whereabouts of my content, media and extra help :
 
 ### Media
 
-- The photos used on the home and sign up page are from the open source site 
+- The photos used on the home and sign up page are from the open source site free to use yoga images.
 - The images used for the gallery page were taken from this other open source site [pexels](https://www.pexels.com/)
 
 
